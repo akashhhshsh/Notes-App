@@ -70,7 +70,7 @@ uvicorn index:app --reload
 ```sh
 http://127.0.0.1:8000
 ```
-
+Reference vide: https://youtu.be/52c7Kxp_14E?si=MDmwtoeiq-Ddkg2E
 ## 🌟 Features
 ✅ Add new notes with a title & description
 ✅ Mark notes as important or normal
