@@ -1,0 +1,33 @@
+/* Light background */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Style cards with soft edges and hover effect */
+.card {
+    border-radius: 12px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* Add hover effect */
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Centering navbar items */
+.navbar .navbar-nav .nav-item {
+    margin-left: 15px;
+}
+
+/* Responsive container */
+.container {
+    max-width: 900px;
+}
+
+/* Custom badge styles */
+.badge {
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
